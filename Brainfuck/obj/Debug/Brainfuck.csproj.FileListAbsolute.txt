@@ -1,0 +1,6 @@
+C:\Users\Yunkai\Desktop\YunKai\c#\Brainfuck\Brainfuck\bin\Debug\Brainfuck.exe.config
+C:\Users\Yunkai\Desktop\YunKai\c#\Brainfuck\Brainfuck\bin\Debug\Brainfuck.exe
+C:\Users\Yunkai\Desktop\YunKai\c#\Brainfuck\Brainfuck\bin\Debug\Brainfuck.pdb
+C:\Users\Yunkai\Desktop\YunKai\c#\Brainfuck\Brainfuck\obj\Debug\Brainfuck.csprojResolveAssemblyReference.cache
+C:\Users\Yunkai\Desktop\YunKai\c#\Brainfuck\Brainfuck\obj\Debug\Brainfuck.exe
+C:\Users\Yunkai\Desktop\YunKai\c#\Brainfuck\Brainfuck\obj\Debug\Brainfuck.pdb
